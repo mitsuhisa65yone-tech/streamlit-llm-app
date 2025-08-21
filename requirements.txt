@@ -44,8 +44,11 @@ watchdog==6.0.0
 langchain
 openai
 python-dotenv
-langchain
 langchain_community
-openai
-python-dotenv
 streamlit
+langchain>=0.2
+langchain-core>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1
+openai>=1.35
+tiktoken
